@@ -1,0 +1,11 @@
+Enterprise networks are shifting
+toward hybrid cloud.
+Tossing an extra firewall in your network
+Shrink-wrapping security close to a cloud asset
+All of the above
+A man-in-the-middle visibility and enforcement tool between enterprise and cloud
+Pushes it away from the flat local area network to reduce APT risk
+None of the above
+CASB is man-in-the-middle
+It is something to be managed
+None of the above

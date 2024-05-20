@@ -1,0 +1,9 @@
+Known Plaintext
+All of the above
+None of the above
+Certificates
+Substitution is replacement
+64 bit blocks
+Non-interoperability with DES
+None of the above
+None of the above.

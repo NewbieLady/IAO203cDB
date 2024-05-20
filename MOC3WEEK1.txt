@@ -1,0 +1,10 @@
+Proprietary software might be best kept secret
+None of the above
+One source IP address, one destination IP address, two ports, and one protocol
+Deceptive sender
+Randomness
+None of the above
+It is 0 when it is the first packet in a TCP session
+Networks from networks
+Stateless firewalls forget context
+Outbound packets from an external source IP are suspicious

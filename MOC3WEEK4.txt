@@ -1,0 +1,10 @@
+Too many rules
+Open gateway access to the Web
+All of the above
+Volume
+Network traffic redirection
+DDOS might involve spoofed sources
+Vulnerabilities are tough to manage remotely
+All of the above
+None of the above
+DDOS attacks will grow in an unbounded manner

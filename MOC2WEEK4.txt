@@ -1,0 +1,10 @@
+Mediation of covert channels
+Conventional crypto scales poorly to large groups
+Publicly known public keys
+Encryption with secret key requires decryption with the corresponding public key
+Encryption with the recipient’s public key
+Encryption with the sender’s secret key
+All of the above
+None of the above
+Browsers
+All of the above

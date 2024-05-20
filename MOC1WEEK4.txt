@@ -1,0 +1,10 @@
+You have no understanding of your assets but would like to
+Fallback from 3G to 2G services
+Identifiable assets include tangible ones
+All of the above
+Assets sometimes have vulnerabilities
+Availability of LTE service
+None of the Above
+None of the above
+All of the above
+Threat-asset matrices can be constructed, but not vulnerability-asset matrices.

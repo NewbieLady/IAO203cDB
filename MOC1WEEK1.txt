@@ -1,0 +1,10 @@
+Auto-propagation without human intervention
+A Trojan horse
+Simple attacks might prompt complex redesigns 
+Dirty code is always produced by dirty developers.
+None of the above
+All of the above
+Seeing open source code might help one design an attack.
+The developers didn’t invest enough money during development
+Using languages with strong type enforcement
+Customer records were hidden, but one might have been slightly garbled

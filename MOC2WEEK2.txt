@@ -1,0 +1,10 @@
+Typing in User ID
+Identifiers are not secret
+Making sure the User ID is correct
+All of the above
+They require buying and administering physical entities
+One-time password
+Ciphertext only
+They are easy for developers to handle.
+Identify, challenge, compute, respond, validate, notify
+Incorrect attribution

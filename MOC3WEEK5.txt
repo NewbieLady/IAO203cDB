@@ -1,0 +1,6 @@
+None of the above.
+Warnings to users to be careful
+Running a DOS defense service in front of the web server that detects the flood of spoofed sources
+All of the above
+Minimizing the inbound services
+None of the above.

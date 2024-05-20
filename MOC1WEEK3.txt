@@ -1,0 +1,10 @@
+The engineer probably cannot make a reliable calculation.
+You shouldn’t expect device security to be perfect    
+Hints about large-scale attacks might come from a network
+Half a million bots each delivering one Mbps of attack traffic.
+Amplification
+Making sure each level includes an “other” category if needed
+Lower security, higher cost
+A million bots at any outbound capacity is simply not feasible
+IT and security taking the lead with BU support  
+Probability of attack might have decreased

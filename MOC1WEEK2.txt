@@ -1,0 +1,10 @@
+A hacker causes a tiny delay in some system
+One is an attack and the other is not.
+None of the above are false.
+Testers cannot draw conclusions about every possible use case
+Both are more effective in the presence of external threat intelligence
+Connects email source with email server IP address
+Fraud is a unique scenario that does not easily fit into existing categories
+Less false positives
+Large attack domain size that can be enumerated and traversed with automation
+Codebook is easier for bad guys to break than known plaintext

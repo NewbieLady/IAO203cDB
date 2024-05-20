@@ -1,0 +1,11 @@
+Hash functions take variable length
+input to fixed length output.
+All of the above
+Supporting distributed auditing
+Hardware bugs
+It was designed to support hiding from authorities
+It supports anonymity
+All of the above
+Communications
+Making bad changes to blockchain will likely get caught
+A hash is a security mitigation

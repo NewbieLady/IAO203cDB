@@ -1,0 +1,10 @@
+All of the above
+Probably more added cost
+It involves looking for differences from normal
+All of the above
+None of the above
+Variants
+SOCs typically use SIEMS
+Perimeter protection works poorly on enterprise networks
+It reduces response cycle times
+IDS is implied by IPS

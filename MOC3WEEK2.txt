@@ -1,0 +1,10 @@
+None of the above
+Packet filters use the TCP ACK bit to makes decisions about blocking.
+Probably spoofed
+Including no rules
+Allow employees to enjoy Web sites
+Enterprise access to external telnet servers is enabled by firewall rules on port 23
+It requires bidirectional session initiation based on ports and addresses.
+All of the above
+Enterprise clients
+Packet filters are firewalls
