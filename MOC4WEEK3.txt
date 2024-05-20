@@ -1,5 +1,4 @@
-Hash functions take variable length
-input to fixed length output.
+Hash functions take variable length input to fixed length output.
 All of the above
 Supporting distributed auditing
 Hardware bugs
