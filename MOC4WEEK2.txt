@@ -1,5 +1,4 @@
-Enterprise networks are shifting
-toward hybrid cloud.
+Enterprise networks are shifting toward hybrid cloud.
 Tossing an extra firewall in your network
 Shrink-wrapping security close to a cloud asset
 All of the above
